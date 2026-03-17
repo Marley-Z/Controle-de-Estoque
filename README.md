@@ -27,7 +27,7 @@ Instalação e Execução:
 - Clone o repositório: https://github.com/Marley-Z/Controle-de-Estoque
 - Inicie o XAMPP (MySQL)
 - Acesse o phpMyAdmin e importe o arquivo: database\controle_estoque.sql
-- Execute a classe Inicio.Java
+- Execute a classe estoquecc\Inicio.Java
 
 Autor:
 Kaique Marley
