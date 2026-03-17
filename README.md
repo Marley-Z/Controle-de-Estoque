@@ -24,7 +24,7 @@ Tecnologias Utilizadas:
 - Java Swing
 
 Instalação e Execução:
-- Clone o repositório:
+- Clone o repositório: https://github.com/Marley-Z/Controle-de-Estoque
 - Inicie o XAMPP (MySQL)
 - Acesse o phpMyAdmin e importe o arquivo: database\controle_estoque.sql
 - Execute a classe Inicio.Java
